@@ -10,7 +10,7 @@ data class Student(val name: String, val age: String)
 
 fun main() {
     val persons = listOf(
-        Person("Alice", "10", "Canadian"),
+        Person("Aliye", "10", "Turkish"),
         Person("Bob", "25", "American"),
         Person("Charlie", "15", "British"),
     )
